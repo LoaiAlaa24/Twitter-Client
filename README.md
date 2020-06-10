@@ -30,6 +30,13 @@ The peer dependencies included from any npm packages does not automatically get 
 ```js
 react-native link
 ```
+*Install iOS Pods:*<br />
+```js
+cd ios
+
+pod install
+```
+
 *Run on devices:*<br />
 ```
 Go to app location:
