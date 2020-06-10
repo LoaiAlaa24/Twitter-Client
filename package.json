@@ -1,0 +1,52 @@
+{
+	"name": "twitterClient",
+	"version": "0.0.1",
+	"private": true,
+	"scripts": {
+		"android": "react-native run-android",
+		"ios": "react-native run-ios",
+		"start": "react-native start",
+		"test": "jest",
+		"lint": "eslint ."
+	},
+	"dependencies": {
+		"@react-native-community/async-storage": "^1.11.0",
+		"@react-native-community/masked-view": "^0.1.10",
+		"axios": "^0.19.2",
+		"i18n-js": "^3.7.0",
+		"native-base": "^2.13.12",
+		"react": "16.11.0",
+		"react-native": "0.62.2",
+		"react-native-dynamic-vector-icons": "^0.1.1",
+		"react-native-elements": "^2.0.2",
+		"react-native-fast-image": "^8.1.5",
+		"react-native-gesture-handler": "^1.6.1",
+		"react-native-localization": "^2.1.6",
+		"react-native-localize": "^1.4.0",
+		"react-native-safe-area-context": "^3.0.2",
+		"react-native-screens": "^2.8.0",
+		"react-native-simple-twitter": "^3.0.6",
+		"react-native-sticky-parallax-header": "^0.2.1",
+		"react-native-testing-library": "^2.0.1",
+		"react-native-twitter-signin": "^1.1.1",
+		"react-native-vector-icons": "^6.6.0",
+		"react-native-webview": "^10.2.3",
+		"react-navigation": "^4.3.9",
+		"react-navigation-stack": "^2.6.0",
+		"ts-jest": "^26.1.0"
+	},
+	"devDependencies": {
+		"@babel/core": "^7.6.2",
+		"@babel/runtime": "^7.6.2",
+		"@react-native-community/eslint-config": "^0.0.5",
+		"babel-jest": "^24.9.0",
+		"detox": "^16.7.2",
+		"eslint": "^6.5.1",
+		"jest": "^24.9.0",
+		"metro-react-native-babel-preset": "^0.58.0",
+		"react-test-renderer": "16.11.0"
+	},
+	"jest": {
+		"preset": "react-native"
+	}
+}

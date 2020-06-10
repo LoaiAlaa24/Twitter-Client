@@ -1,0 +1,5 @@
+version: "Apple Swift version 5.2 (swiftlang-1103.0.32.1 clang-1103.0.32.29)"
+options: "cbb9399e62633bd99da779c41eb17e25"
+build_time: [1591575676, 219725000]
+inputs:
+  "/Users/loai/Downloads/Twitter-Client/twitterClient/ios/Pods/YogaKit/YogaKit/Source/YGLayoutExtensions.swift": [1591549609, 492956307]

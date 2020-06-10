@@ -1,0 +1,44 @@
+dependencies: \
+  /Users/loai/Downloads/Twitter-Client/twitterClient/node_modules/react-native/ReactCommon/turbomodule/core/platform/ios/RCTTurboModule.mm \
+  /Users/loai/Downloads/Twitter-Client/twitterClient/ios/Pods/Target\ Support\ Files/ReactCommon/ReactCommon-prefix.pch \
+  /Users/loai/Downloads/Twitter-Client/twitterClient/node_modules/react-native/ReactCommon/turbomodule/core/platform/ios/RCTTurboModule.h \
+  /Users/loai/Downloads/Twitter-Client/twitterClient/ios/Pods/Headers/Public/React-Core/React/RCTBridge.h \
+  /Users/loai/Downloads/Twitter-Client/twitterClient/ios/Pods/Headers/Public/React-Core/React/RCTBridgeDelegate.h \
+  /Users/loai/Downloads/Twitter-Client/twitterClient/ios/Pods/Headers/Public/React-Core/React/RCTJavaScriptLoader.h \
+  /Users/loai/Downloads/Twitter-Client/twitterClient/ios/Pods/Headers/Public/React-Core/React/RCTDefines.h \
+  /Users/loai/Downloads/Twitter-Client/twitterClient/ios/Pods/Headers/Public/React-Core/React/RCTInspectorDevServerHelper.h \
+  /Users/loai/Downloads/Twitter-Client/twitterClient/ios/Pods/Headers/Public/React-Core/React/RCTPackagerConnection.h \
+  /Users/loai/Downloads/Twitter-Client/twitterClient/ios/Pods/Headers/Public/React-Core/React/RCTBridgeModule.h \
+  /Users/loai/Downloads/Twitter-Client/twitterClient/ios/Pods/Headers/Public/React-Core/React/RCTFrameUpdate.h \
+  /Users/loai/Downloads/Twitter-Client/twitterClient/ios/Pods/Headers/Public/React-Core/React/RCTInvalidating.h \
+  /Users/loai/Downloads/Twitter-Client/twitterClient/ios/Pods/Headers/Public/React-Core/React/RCTModuleMethod.h \
+  /Users/loai/Downloads/Twitter-Client/twitterClient/ios/Pods/Headers/Public/React-Core/React/RCTBridgeMethod.h \
+  /Users/loai/Downloads/Twitter-Client/twitterClient/ios/Pods/Headers/Public/React-Core/React/RCTNullability.h \
+  /Users/loai/Downloads/Twitter-Client/twitterClient/node_modules/react-native/ReactCommon/callinvoker/ReactCommon/CallInvoker.h \
+  /Users/loai/Downloads/Twitter-Client/twitterClient/node_modules/react-native/ReactCommon/turbomodule/core/TurboModule.h \
+  /Users/loai/Downloads/Twitter-Client/twitterClient/ios/Pods/Headers/Public/React-jsi/jsi/jsi.h \
+  /Users/loai/Downloads/Twitter-Client/twitterClient/ios/Pods/Headers/Public/React-jsi/jsi/jsi-inl.h \
+  /Users/loai/Downloads/Twitter-Client/twitterClient/node_modules/react-native/ReactCommon/turbomodule/core/TurboModuleUtils.h \
+  /Users/loai/Downloads/Twitter-Client/twitterClient/ios/Pods/Folly/folly/Optional.h \
+  /Users/loai/Downloads/Twitter-Client/twitterClient/ios/Pods/Folly/folly/Portability.h \
+  /Users/loai/Downloads/Twitter-Client/twitterClient/ios/Pods/Folly/folly/portability/Config.h \
+  /Users/loai/Downloads/Twitter-Client/twitterClient/ios/Pods/Folly/folly/CPortability.h \
+  /Users/loai/Downloads/Twitter-Client/twitterClient/ios/Pods/Folly/folly/Traits.h \
+  /Users/loai/Downloads/Twitter-Client/twitterClient/ios/Pods/Folly/folly/Utility.h \
+  /Users/loai/Downloads/Twitter-Client/twitterClient/ios/Pods/Folly/folly/lang/Exception.h \
+  /Users/loai/Downloads/Twitter-Client/twitterClient/ios/Pods/Folly/folly/CppAttributes.h \
+  /Users/loai/Downloads/Twitter-Client/twitterClient/node_modules/react-native/ReactCommon/turbomodule/core/LongLivedObject.h \
+  /Users/loai/Downloads/Twitter-Client/twitterClient/ios/Pods/Headers/Public/React-Core/React/RCTConvert.h \
+  /Users/loai/Downloads/Twitter-Client/twitterClient/ios/Pods/Headers/Public/React-Core/React/RCTAnimationType.h \
+  /Users/loai/Downloads/Twitter-Client/twitterClient/ios/Pods/Headers/Public/React-Core/React/RCTBorderStyle.h \
+  /Users/loai/Downloads/Twitter-Client/twitterClient/ios/Pods/Headers/Public/React-Core/React/RCTLog.h \
+  /Users/loai/Downloads/Twitter-Client/twitterClient/ios/Pods/Headers/Public/React-Core/React/RCTAssert.h \
+  /Users/loai/Downloads/Twitter-Client/twitterClient/ios/Pods/Headers/Public/React-Core/React/RCTUtils.h \
+  /Users/loai/Downloads/Twitter-Client/twitterClient/ios/Pods/Headers/Public/React-Core/React/RCTPointerEvents.h \
+  /Users/loai/Downloads/Twitter-Client/twitterClient/ios/Pods/Headers/Public/React-Core/React/RCTTextDecorationLineType.h \
+  /Users/loai/Downloads/Twitter-Client/twitterClient/ios/Pods/Headers/Public/Yoga/yoga/Yoga.h \
+  /Users/loai/Downloads/Twitter-Client/twitterClient/ios/Pods/Headers/Public/Yoga/yoga/YGEnums.h \
+  /Users/loai/Downloads/Twitter-Client/twitterClient/ios/Pods/Headers/Public/Yoga/yoga/YGMacros.h \
+  /Users/loai/Downloads/Twitter-Client/twitterClient/ios/Pods/Headers/Public/Yoga/yoga/YGValue.h \
+  /Users/loai/Downloads/Twitter-Client/twitterClient/ios/Pods/Headers/Public/React-Core/React/RCTCxxConvert.h \
+  /Users/loai/Downloads/Twitter-Client/twitterClient/ios/Pods/Headers/Public/React-Core/React/RCTManagedPointer.h

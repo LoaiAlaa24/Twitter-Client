@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/android.iml" filepath="$PROJECT_DIR$/android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="twitterClient/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1607758883/react-native-community_masked-view.iml" filepath="$PROJECT_DIR$/.idea/modules/-1607758883/react-native-community_masked-view.iml" group="twitterClient/react-native-community_masked-view" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1337453034/react-native-fast-image.iml" filepath="$PROJECT_DIR$/.idea/modules/-1337453034/react-native-fast-image.iml" group="twitterClient/react-native-fast-image" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1731778662/react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/-1731778662/react-native-gesture-handler.iml" group="twitterClient/react-native-gesture-handler" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1007536645/react-native-localization.iml" filepath="$PROJECT_DIR$/.idea/modules/1007536645/react-native-localization.iml" group="twitterClient/react-native-localization" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-448268427/react-native-localize.iml" filepath="$PROJECT_DIR$/.idea/modules/-448268427/react-native-localize.iml" group="twitterClient/react-native-localize" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1435582077/react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/-1435582077/react-native-safe-area-context.iml" group="twitterClient/react-native-safe-area-context" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1597859493/react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/-1597859493/react-native-screens.iml" group="twitterClient/react-native-screens" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-652495448/react-native-twitter-signin.iml" filepath="$PROJECT_DIR$/.idea/modules/-652495448/react-native-twitter-signin.iml" group="twitterClient/react-native-twitter-signin" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/2042603132/react-native-vector-icons.iml" filepath="$PROJECT_DIR$/.idea/modules/2042603132/react-native-vector-icons.iml" group="twitterClient/react-native-vector-icons" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1956050381/react-native-webview.iml" filepath="$PROJECT_DIR$/.idea/modules/1956050381/react-native-webview.iml" group="twitterClient/react-native-webview" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/twitterClient.iml" filepath="$PROJECT_DIR$/.idea/modules/twitterClient.iml" group="twitterClient" />
+    </modules>
+  </component>
+</project>

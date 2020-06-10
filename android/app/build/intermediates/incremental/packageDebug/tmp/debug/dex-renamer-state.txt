@@ -1,0 +1,4 @@
+#Wed Jun 10 20:23:13 EET 2020
+base.0=/Users/loai/Downloads/Twitter-Client/twitterClient/android/app/build/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
