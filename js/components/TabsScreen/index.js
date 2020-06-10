@@ -152,8 +152,8 @@ async _onSetLanguageToArabic() {
           
     <Image source={{uri:this.props.navigation.state.params.profileImage}}  style={styles.img} />  
 
-           <Text style={styles.message}>{this.props.navigation.state.params.name}</Text>
-           <Text style={styles.message}>{this.props.navigation.state.params.username}</Text>
+           <Text style={styles.name}>{this.props.navigation.state.params.name}</Text>
+           <Text style={styles.name}>{this.props.navigation.state.params.username}</Text>
     <View>
     <Text style={styles.bio}>{this.props.navigation.state.params.bio}</Text>
     </View>

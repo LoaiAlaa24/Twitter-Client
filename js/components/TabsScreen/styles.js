@@ -3,6 +3,8 @@ const React = require('react-native');
 
 const { StyleSheet, Dimensions } = React;
 
+import { Fonts } from '../../../src/utils/Fonts';
+
 const deviceHeight = Dimensions.get('window').height;
 const deviceWidth = Dimensions.get('window').width;
 export default {
@@ -21,7 +23,7 @@ export default {
           width:"100%"
           
         },
-        message: {
+        name: {
           color: 'white',
           fontSize: 20,
           alignSelf:"flex-start",
@@ -63,7 +65,8 @@ export default {
           lineHeight: 20,
           paddingHorizontal: 12,
           paddingVertical: 8,
-          color: 'white'
+          color: 'white',
+          fontFamily: Fonts.RB
         },
         img:{      
           width:60 , 

@@ -2,6 +2,7 @@
 const React = require('react-native');
 
 const { StyleSheet, Dimensions } = React;
+import { Fonts } from '../../../src/utils/Fonts';
 
 const deviceHeight = Dimensions.get('window').height;
 const deviceWidth = Dimensions.get('window').width;
@@ -33,7 +34,8 @@ background:
                 
   fullName:{
       alignSelf:"center",
-      color:"#19AAEE"
+      color:"#19AAEE",
+      fontFamily:Fonts.RM
 
   }    ,
   

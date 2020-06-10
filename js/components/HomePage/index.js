@@ -140,7 +140,7 @@ async _onSetLanguageToArabic() {
              this._onSetLanguageToArabic() 
         }}>
 
-<Text style={{color:"white",alignSelf:"flex-end",fontSize:15,marginTop:60,marginRight:10}}>
+<Text style={styles.language}>
 
         Arabic
 
@@ -154,7 +154,7 @@ async _onSetLanguageToArabic() {
              this._onSetLanguageToEnglish() 
               }}>
 
-<Text style={{color:"white",alignSelf:"flex-end",fontSize:15,marginTop:60,marginRight:10}}>
+<Text style={styles.language}>
 
         English
 
@@ -167,7 +167,6 @@ async _onSetLanguageToArabic() {
                 </View>
 
 
-        <View style={styles.loginCont}>
 
     {this.state.loading?
   
@@ -175,21 +174,22 @@ async _onSetLanguageToArabic() {
 
           :
       
-
+     
       <TWLoginButton
-  style={styles.loginInWithTwitter}
-  type="TouchableOpacity"
-  onPress={this.onPress}
-  onGetAccessToken={this.onGetAccessToken}
-  onSuccess={this.onSuccess}
-  onClose={this.onClose}
-  onError={this.onError}><Text style={styles.loginText}>{strings.Login}</Text></TWLoginButton>
+      style={styles.loginWithTwitter}
+      type="TouchableOpacity"
+      onPress={this.onPress}
+      onGetAccessToken={this.onGetAccessToken}
+      onSuccess={this.onSuccess}
+      onClose={this.onClose}
+      onError={this.onError}>
 
-  
+      <Text style={styles.loginText}>{strings.Login}</Text>
+
+      </TWLoginButton>
+
 
   }
-
-        </View>
 
         </View>
    );

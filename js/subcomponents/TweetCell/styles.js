@@ -3,6 +3,8 @@ const React = require('react-native');
 
 const { StyleSheet, Dimensions } = React;
 
+import { Fonts } from '../../../src/utils/Fonts';
+
 const deviceHeight = Dimensions.get('window').height;
 const deviceWidth = Dimensions.get('window').width;
 export default {
@@ -34,7 +36,8 @@ background:
   fullName:{
       alignSelf:"center",
       color:"#19AAEE",
-      marginLeft:5
+      marginLeft:5,
+      fontFamily: Fonts.RB
 
   }    ,
 
@@ -42,12 +45,14 @@ background:
     alignSelf:"center",
     color:"#19AAEE64",
     marginLeft:5,
+    fontFamily: Fonts.RB
 
 } ,
-  bio:{
+  tweet:{
       marginLeft:65,
       marginTop:-25,
-      color:"white"
+      color:"white",
+      fontFamily: Fonts.RM
   }
 
 };

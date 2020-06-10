@@ -84,9 +84,9 @@ renderFollowers(){
 
    <Header
     leftComponent={
-<TouchableOpacity onPress={()=> this.refreshScreen()}>
-<Icon name="refresh" size={25} color="#fff" />
-</TouchableOpacity>
+                    <TouchableOpacity onPress={()=> this.refreshScreen()}>
+                    <Icon name="refresh" size={25} color="#fff" />
+                    </TouchableOpacity>
 
 
     }

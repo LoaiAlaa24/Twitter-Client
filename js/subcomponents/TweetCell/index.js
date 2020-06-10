@@ -28,7 +28,7 @@ constructor(props){
 
     </View>
 
-      <Text style={styles.bio}>
+      <Text style={styles.tweet}>
             {this.props.tweet}
       </Text> 
 
