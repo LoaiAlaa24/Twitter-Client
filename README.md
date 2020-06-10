@@ -18,7 +18,7 @@ https://xd.adobe.com/view/fa0da4e0-70e6-453d-4dff-f43704b29561-8c3c/
 
 *Clone this repo:*
 ```js
-git clone <URL of the repo>
+git clone https://github.com/LoaiAlaa24/Twitter-Client.git
 ```
 *Install NPM modules:*
 ```js
@@ -33,7 +33,6 @@ react-native link
 *Run on devices:*<br />
 ```
 Go to app location:
-```sh
 cd <APPNAME>
 ```
 For iOS run:
