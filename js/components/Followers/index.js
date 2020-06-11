@@ -12,6 +12,7 @@ import axios from "axios";
 import {Header} from 'react-native-elements';
 import FollowersCell from "../../subcomponents/FollowersCell";
 import MaterialCommunityIcons from "react-native-vector-icons/MaterialCommunityIcons"
+import { Fonts } from '../../../src/utils/Fonts';
 
 const profile = require('../../../assets/images/profile.jpg')
 
@@ -83,6 +84,8 @@ renderFollowers(){
    </View>
 
    <Header
+
+
     leftComponent={
                     <TouchableOpacity onPress={()=> this.refreshScreen()}>
                     <Icon name="refresh" size={25} color="#fff" />
@@ -90,7 +93,11 @@ renderFollowers(){
 
 
     }
-    centerComponent={{ text: strings.Followers, style: { color: 'white', fontSize:18 } }}
+
+
+    centerComponent={{ text: strings.Followers, style: { color: 'white', fontSize:18,fontFamily:  Fonts.RB } }}
+
+
 
     rightComponent = {
 
