@@ -83,23 +83,13 @@ renderTweets(){
     var str = this.state.tweets[i].text;
 
     var textAndImage = str.split(urlHeader)
-    var imageUrl = ""
-    var tweetText = ""
-
-    if(textAndImage.length > 1){
-      tweetText = textAndImage[0]
-      imageUrl = urlHeader+textAndImage[1]
-    }else{
-      tweetText = textAndImage[0]
-    }
 
      arrayOfTweets.push(
               <TweetCell
               name={this.props.navigation.state.params.name}
               username={this.props.navigation.state.params.username}
               profileImage={this.props.navigation.state.params.profileImage}
-              tweet={tweetText}
-              tweetImage={imageUrl}
+              tweet={str}
               />
             )
           }
@@ -175,7 +165,7 @@ async _onSetLanguageToArabic() {
       <View style={styles.headerWrapper}>
 
         <Animated.View style={{ opacity }}>
-          {/* <Text style={styles.headerTitle}>Loay Alaa</Text> */}
+
                 </Animated.View>
 
 

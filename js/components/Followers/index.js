@@ -57,7 +57,7 @@ renderFollowers(){
     const results = this.props.navigation.state.params.results;
 
     for(var  i = 0; i < results.length; i++){
-     console.log(results[i].profile_banner_url)
+      
      arrayOfFollowers.push(
 
         <FollowersCell 

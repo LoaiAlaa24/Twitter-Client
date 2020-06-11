@@ -34,8 +34,6 @@ constructor(props){
 
    </View>
 
-  
-
 
      
   </View>
