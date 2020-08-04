@@ -1,8 +1,9 @@
-# Twitter-Client
-
+# Twitter-Client (Second Release)
 
 A cross-platform Twitter Client built using by react native for iOS and Android!
 
+## What's new?
+Implemented using React-Redux architecure. 
 
 ## What is Twitter-Client?
 [Twitter-Client] is an cross-platform iOS and Android app built using react native, in which the user can login with his Twitter account and view his followers and his followers' tweets!
